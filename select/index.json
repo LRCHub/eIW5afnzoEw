@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "She Don't",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T15:08:28.387452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She Don't Know",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/01_She_Don't_Know_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She Don't Get The Blues",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_She_Don't_Get_The_Blues_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "She Don't Know She's Beautiful",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/03_She_Don't_Know_She's_Beautiful_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "She Don't Know She's Beautiful (Album Version)",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/04_She_Don't_Know_She's_Beautiful_(Album_Version)_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She Don't Love Nobody",
+      "artist": "Desert Rose Band",
+      "has_synced": true,
+      "path": "select/05_She_Don't_Love_Nobody_Desert_Rose_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She Don't Need A Band To Dance",
+      "artist": "John Michael Montgomery",
+      "has_synced": false,
+      "path": "select/06_She_Don't_Need_A_Band_To_Dance_John_Michael_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "She Don't Need a Band to Dance (LP Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": false,
+      "path": "select/07_She_Don't_Need_a_Band_to_Dance_(LP_Version)_John_Michael_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "She Don’t Know",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/08_She_Don’t_Know_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She Don't Love Me",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/09_She_Don't_Love_Me_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She Don't Wanna Man",
+      "artist": "Asher Roth",
+      "has_synced": true,
+      "path": "select/10_She_Don't_Wanna_Man_Asher_Roth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She Don't",
+      "artist": "Droid Bishop",
+      "has_synced": true,
+      "path": "select/11_She_Don't_Droid_Bishop.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She Don't Let Nobody (But Me)",
+      "artist": "Curtis Mayfield",
+      "has_synced": false,
+      "path": "select/12_She_Don't_Let_Nobody_(But_Me)_Curtis_Mayfield.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She Don't Want A Man",
+      "artist": "Curren$y",
+      "has_synced": true,
+      "path": "select/13_She_Don't_Want_A_Man_Curren$y.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She Don't Know Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/14_She_Don't_Know_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "She Don't (feat. Ty Dolla $Ign)",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_She_Don't_(feat._Ty_Dolla_$Ign)_Ella_Mai.txt"
+    }
+  ]
+}
